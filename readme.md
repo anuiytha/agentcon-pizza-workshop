@@ -7,7 +7,7 @@ An intelligent AI agent built with Azure AI Foundry that enables natural languag
 
 ## Overview
 
-This project was developed during the AgentCon Washington DC 2025 workshop "Agents of Tomorrow: Building the Next Generation of Intelligence" by Henk Boelman. The agent demonstrates advanced AI capabilities including natural language understanding, tool calling, and external system integration.
+This project was developed during the AgentCon Washington DC 2025 workshop "Agents of Tomorrow: Building the Next Generation of Intelligence" under the guidance of Henk Boelman. The agent demonstrates advanced AI capabilities including natural language understanding, tool calling, and external system integration.
 
 ## Features
 
