@@ -1,6 +1,6 @@
 # Contoso Pizza Ordering Agent 🍕🤖
 
-
+https://github.com/user-attachments/assets/ff224b63-1f2f-4db0-96a0-df244ce0701c
 
 An intelligent AI agent built with Azure AI Foundry that enables natural language pizza ordering with a custom web interface.
 
@@ -15,6 +15,7 @@ This project was developed during the AgentCon Washington DC 2025 workshop "Agen
 - **Natural Language Processing**: Order pizzas through conversational interactions
 - **RAG Implementation**: Retrieval Augmented Generation for grounded responses
 - **MCP Integration**: Model Context Protocol for interoperable agent-tool connections
+- **Custom Frontend**: User-friendly React-based web interface for seamless ordering experience.
 - **Custom Frontend**: User-friendly web interface for seamless ordering experience
 - **Real-time Menu**: Live pizza and topping information via MCP server
 - **Order Management**: Place, view, and manage orders through the agent
@@ -51,7 +52,3 @@ Microsoft Office, Reston, VA
 ## Acknowledgments
 
 Workshop led by Henk Boelman as part of the Global AI Agents World Tour.
-
-## License
-
-[Add your license here]
