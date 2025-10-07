@@ -2,3 +2,5 @@ docs/.vitepress/dist
 docs/.vitepress/cache 
 node_modules/
 .venv/
+
+echo ".env" >> .gitignore
